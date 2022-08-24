@@ -5,13 +5,13 @@
 </div>
 
 # This is  Thaneesh Reddy , thaneeshr . 
-## I am a Techie
+## I am a Data Engineer At Bitwise Solutions 
 
-- <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width=40 height=40>  I am a fan of Python and I love to code in Python . I am proficient in Django, a web development framework. I also know a bit of machine learning and AI . <br>
+- <img src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png" width=40 height=40>  I am a Data Engineer,  I developed end-to-end pipelines, which includes data extraction, transformations, and loading data into the target.  <br>
 - <img src="https://download.pingcap.com/images/download-tidb/new-gcp-logo.png" width=80 height=50>I am a Google Cloud Certified Associate Cloud Engineer <br>
 - <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width=50 height=50>   I also know Java and like coding in Java . 
 
-- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=60 height=50>  I have built some projects and am planning to build some more.<br>
+- <img src="https://media0.giphy.com/media/pylpD8AoQCf3CQ1oO2/giphy.gif" width=60 height=50>  Acquired an understanding of ETL technologies and practical experience with Google Cloud Platform's Big Query, Airflow, and Dataflow, PySpark.<br>
 
 ## My Tech Stack
 
@@ -37,20 +37,20 @@
      </tr>
     <tr valign="top">
       <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><strong>Spark</strong></span><br><br><br>
+        <img height="64px" src="https://seeklogo.com/images/A/apache-spark-logo-E141C92C3E-seeklogo.com.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <span><strong>DataFlow</strong></span><br><br><br>
+        <img height="64px" src="https://codelabs.developers.google.com/static/codelabs/cloud-dataflow-starter/img/62b0919755804bea.png">
       </td>
       <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <span><strong>BigQuery</strong></span><br><br><br>
+        <img height="64px" src="https://storage.googleapis.com/gweb-cloudblog-publish/images/bigquery2Blogoydo0.max-1000x1000.PNG">
       </td>
       <td width="25%" align="center">
-        <span><strong>React Js</strong></span><br><br><br>
-        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png">
+        <span><strong>Airflow</strong></span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/AirflowLogo.png/121px-AirflowLogo.png">
       </td>
     </tr>
 
